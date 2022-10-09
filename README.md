@@ -6,3 +6,4 @@ Includes
 - Runjs : A simple javascript runtime built with rust and deno_core
 - A Simple Web Server Built with Rust & Tokio
 - A simple cli that prints how to play an inputted chord
+- A Websocket chat server built using the Actix framework
